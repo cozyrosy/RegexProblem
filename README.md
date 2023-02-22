@@ -13,3 +13,11 @@ print(numbers)
 
 # **Output**
  ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '648', '649', '650', '651', '652', '653', '3']
+
+# **Problem Set II - Scraping Using Selenium**
+[Video1 Link](https://youtu.be/k9FmK-caHX4). <br>
+[Repo Link](https://gitlab.com/cozyrosy/WebScrapingUsingSelenium.git).
+
+# **Problem Set III**
+[Video2 Link](https://youtu.be/tt1stf0Ieuc).<br>
+[Repo Link](https://gitlab.com/cozyrosy/AppReview2.git).
